@@ -1,0 +1,5 @@
+https://matplotlib.org/3.2.1/contents.html
+https://seaborn.pydata.org/
+https://plotly.com/python/
+https://plotly.com/python/bubble-charts/
+https://plotly.com/python/choropleth-maps/#customize-choropleth-chart
